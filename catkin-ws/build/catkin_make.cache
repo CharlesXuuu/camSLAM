@@ -1,0 +1,2 @@
+usb_cam:video_stream_opencv
+-DCATKIN_DEVEL_PREFIX=/home/chix/catkin-ws/devel -DCMAKE_INSTALL_PREFIX=/home/chix/catkin-ws/install -G Unix Makefiles

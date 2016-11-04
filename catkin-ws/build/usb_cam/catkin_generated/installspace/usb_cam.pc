@@ -1,0 +1,8 @@
+prefix=/home/chix/catkin-ws/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.4
+Cflags: -I/home/chix/catkin-ws/install/include
+Libs: -L/home/chix/catkin-ws/install/lib -lusb_cam
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/chix/catkin-ws/install
+
+Name: video_stream_opencv
+Description: Description of video_stream_opencv
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/chix/catkin-ws/install/lib 
+Requires: 
